@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+**My name is Adam.** *I am currently a student at Grand Valley State University in Michigan.*
 <!--
 **Brownad2/Brownad2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
